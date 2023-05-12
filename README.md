@@ -11,3 +11,5 @@
   5. Изменить параметр в файле "С:\Evolution\eCadPro\_ecadpro\ecadpro.ini" c "bottoniaggiuntivi=" на "bottoniaggiuntivi=import"
 
 Текущая версия поддерживает импорт и экспорт макросов, значений вариантов и заголовки вариантов.
+
+По желанию можно использовать GitHub Desktop https://desktop.github.com/.
