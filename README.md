@@ -1,7 +1,7 @@
 # CadExtRepo_bin
 Модуль расширения для Evolution.
 
-Системные требования: версия SQL Server 2017 и выше.
+Системные требования: версия SQL Server 2017 Express и выше.
 
 Установка: 
   1. Скопировать dll в папку C:\Evolution\eCadPro
