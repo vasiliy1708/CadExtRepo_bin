@@ -12,6 +12,6 @@
 
 Текущая версия поддерживает импорт и экспорт макросов, значений вариантов и заголовки вариантов.
 
-По желанию можно использовать GitHub Desktop https://desktop.github.com/.
+Графическая обочка GitHub Desktop https://desktop.github.com/
 
 Презентация и пример работы https://youtu.be/xhvsdDZJeLc
