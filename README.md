@@ -14,4 +14,7 @@
 
 Графическая обочка GitHub Desktop https://desktop.github.com/
 
-Презентация и пример работы https://youtu.be/xhvsdDZJeLc
+Видеоматериалы:
+  1. Презентация и пример работы https://youtu.be/xhvsdDZJeLc
+  2. Пример объединения работы двух разработчиков https://youtu.be/uzT9GpByZHQ
+
