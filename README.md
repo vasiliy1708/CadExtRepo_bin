@@ -8,7 +8,7 @@ _Модуль расширения для Evolution (в разработке)._
   1. Скопировать dll в папку `C:\Evolution\eCadPro`
   2. Зарегистрировать dll командой в терминале:
   ```sh
-     "%WINDIR%\Microsoft.NET\Framework\v4.0.30319\regasm.exe" С:\Evolution\eCadPro\CadExtRepo.dll /tlb /nologo /codebase
+     "%WINDIR%\Microsoft.NET\Framework\v4.0.30319\regasm.exe" C:\Evolution\eCadPro\CadExtRepo.dll /tlb /nologo /codebase
   ```   
   4. Скопировать "AMBIENTE.VBS" в папку `С:\Evolution\eCadPro\_ecadpro\procedure`
   5. Изменить параметр в файле `С:\Evolution\eCadPro\_ecadpro\ecadpro.ini` c `bottoniaggiuntivi=` на `bottoniaggiuntivi=import`
