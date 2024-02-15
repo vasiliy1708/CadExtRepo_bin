@@ -16,9 +16,9 @@ _Модуль расширения для Evolution (в разработке)._
 > Текущая версия поддерживает импорт и экспорт макросов, значений вариантов и заголовки вариантов.
 
 ### Дополнительно:
-- Графическая обочка [GitHub Desktop](https://desktop.github.com/)
 - Графическая обочка [Git Extensions](https://github.com/gitextensions/gitextensions/releases/)
-
+- Графическая обочка [GitHub Desktop](https://desktop.github.com/)
+  
 ### Видеоматериалы:
   1. Презентация и пример работы https://youtu.be/xhvsdDZJeLc
   2. Пример объединения работы двух разработчиков https://youtu.be/uzT9GpByZHQ
