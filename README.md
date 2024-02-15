@@ -17,6 +17,7 @@ _Модуль расширения для Evolution (в разработке)._
 
 ### Дополнительно:
 - Графическая обочка [GitHub Desktop](https://desktop.github.com/)
+- Графическая обочка [Git Extensions](https://github.com/gitextensions/gitextensions/releases/)
 
 ### Видеоматериалы:
   1. Презентация и пример работы https://youtu.be/xhvsdDZJeLc
