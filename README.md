@@ -13,8 +13,6 @@ _Модуль расширения для Evolution (в разработке)._
   4. Скопировать "AMBIENTE.VBS" в папку `С:\Evolution\eCadPro\_ecadpro\procedure`
   5. Изменить параметр в файле `С:\Evolution\eCadPro\_ecadpro\ecadpro.ini` c `bottoniaggiuntivi=` на `bottoniaggiuntivi=import`
 
-> Текущая версия поддерживает импорт и экспорт макросов, значений вариантов и заголовки вариантов.
-
 ### Дополнительно:
 - Графическая обочка [Git Extensions](https://github.com/gitextensions/gitextensions/releases/)
 - Графическая обочка [GitHub Desktop](https://desktop.github.com/)
