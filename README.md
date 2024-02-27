@@ -12,7 +12,7 @@ _Модуль расширения для Evolution (в разработке)._
   ```   
   4. Скопировать "AMBIENTE.VBS" в папку `С:\Evolution\eCadPro\_ecadpro\procedure`
   5. Изменить параметр в файле `С:\Evolution\eCadPro\_ecadpro\ecadpro.ini` c `bottoniaggiuntivi=` на `bottoniaggiuntivi=import`
-  6. В Microsoft SQL Server Management Studio в "Свойства базы данных"(ПКМ на имени базы данных) на странице "Параметры" изменить "Уровень совместимости".
+  6. В Microsoft SQL Server Management Studio в "Свойства базы данных"(ПКМ на имени базы данных, это имя каталога) на странице "Параметры" изменить "Уровень совместимости".
 
 ### Дополнительно:
 - Графическая обочка [Git Extensions](https://github.com/gitextensions/gitextensions/releases/)
