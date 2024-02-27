@@ -5,27 +5,16 @@ Function init()
 end function
 
 function Elab1(ByVal pp)
-    Dim Obj,res
-	CadExtRepo("import")
-    set Obj=Ambiente.GetObject("XAMB")
-    Ambiente.xMessaggio Obj.reg.var.var("msgCadExtRepo")
-    set Obj = nothing
+    CadExtRepo("import")
 end function
 
-Function ChiudiApplicazione()
-	ChiudiApplicazione = 1
+function Elab2(ByVal pp)
     CadExtRepo("export")
 end function
 
-function mostraFunzioni (xKey, xMain)
-    Dim Obj,res
-	select case ucase(xKey)
-	case "SPOSTA"
-        CadExtRepo("export")
-        set Obj=Ambiente.GetObject("XAMB")
-        Ambiente.xMessaggio Obj.reg.var.var("msgCadExtRepo")
-        set Obj = nothing
-	end select
+Function ChiudiApplicazione()
+    ChiudiApplicazione = 1
+    'CadExtRepo("export")
 end function
 
 Sub CadExtRepo(mode)
