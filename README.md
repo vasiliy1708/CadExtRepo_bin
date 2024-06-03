@@ -1,5 +1,5 @@
-# CadExtRepo_bin Beta
-_Модуль расширения для Evolution (в разработке)._
+# CadExtRepo_bin
+_Модуль расширения для Evolution._
 
 ### Системные требования: 
 - версия SQL Server 2017 Express и выше.
