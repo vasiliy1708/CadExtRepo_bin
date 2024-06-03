@@ -17,7 +17,7 @@ _Модуль расширения для Evolution._
 
 ### Дополнительно:
 - Графическая обочка [Git Extensions](https://github.com/gitextensions/gitextensions/releases/)
-- Если нужно обновить библиотеку, сначало отменяем регистрацию
+- Если нужно обновить библиотеку, сначало отменяем регистрацию, командой ниже, потом регистрируем как описано в п.2
   ```sh
      "%WINDIR%\Microsoft.NET\Framework\v4.0.30319\regasm.exe" C:\Evolution\eCadPro\CadExtRepo.dll /unregister
   ``` 
